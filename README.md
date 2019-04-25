@@ -2,6 +2,8 @@
 
 This project is used to extract the pores in the finger-print pictures.<br>
 Use command ` python main.py` to start the GUI window to extract the pores. <br>
+<br>
+![Image](https://github.com/ZhikuanZhang/Pore-Extract/blob/master/display.PNG)
 
 ## Quick Start
 
